@@ -1,5 +1,6 @@
-Name:             Cristian E. Nuno
-Email:            cristian.nuno@flatironschool.com
-Favorite Place:   Hakone, Japan
-Favorite Food:    Lou Malnati's Deep Dish Pizza
+Name:             Connor Anderson
+Email:            connor.anderson@flatironschool.com
+Favorite Place:   San Deigo, California
+Favorite Food:    Chicken Phad Thai
 Astrology sign:   Cancer
+Favorite Movie:   The Secret Life of Walter Mitty
